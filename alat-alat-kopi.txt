@@ -2,7 +2,9 @@ Alat-alat kopi yang akan dibeli :
 - Bean Kopi
   * Kofind
   * Space Roastery
-  * Kopilaborasi Raastery
+  * Darat Coffee Lab
+  * Amstr Coffee
+- Ketel Elektrik 
 - Grinder 
 - Dripper (V60)
 - Paper Filter
