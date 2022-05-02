@@ -3,6 +3,7 @@ Alat-alat kopi yang akan dibeli :
   * Kofind
   * Space Roastery
   * Darat Coffee Lab
+  * Amstr Coffee
 - Ketel Elektrik 
 - Grinder 
 - Dripper (V60)
