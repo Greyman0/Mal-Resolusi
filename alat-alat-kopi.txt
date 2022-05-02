@@ -2,6 +2,7 @@ Alat-alat kopi yang akan dibeli :
 - Bean Kopi
   * Kofind
   * Space Roastery
+- Ketel Elektrik 
 - Grinder 
 - Dripper (V60)
 - Paper Filter
